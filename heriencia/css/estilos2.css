@@ -1,0 +1,19 @@
+body{
+  background-color: Black;
+  font-family: verdana;
+  color: white;
+}
+
+h1{
+font-family: Arial;
+}
+
+a
+{
+  color: inherit;
+}
+
+div{
+	margin-top: 10px;
+	margin-left: 20px;
+}
