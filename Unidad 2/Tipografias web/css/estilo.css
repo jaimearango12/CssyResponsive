@@ -1,0 +1,18 @@
+h1{
+  font-family: helvetica;
+  font-size: 2em;
+  font-variant: small-caps;
+  font-weight: bold;
+  text-decoration: overline;
+  word-spacing: 30px;
+}
+
+p{
+  text-align: justify;
+  text-indent: 4vw;
+}
+
+div{
+  margin: 0 10%;
+  border: 80%;
+}
