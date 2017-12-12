@@ -1,0 +1,39 @@
+@media print {
+ img{
+   width: 100%
+ }
+ h1{
+   text-align: center;
+ }
+}
+@media (max-width:420px){
+
+  p{
+    color: red;
+  }
+}
+
+@media (min-width:421px) and (max-width:721px){
+  p{
+    color: green;
+  }
+}
+
+img{
+  width: 100%;
+  margin: 0;
+  border: 0;
+}
+
+p
+{
+    font-size: 3vh;
+}
+footer
+{
+    color: blue;
+}
+h2
+{
+    word-spacing: 1em;
+}
